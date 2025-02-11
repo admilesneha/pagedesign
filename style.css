@@ -1,0 +1,63 @@
+body {font-family: "Fieldwork Geo", Arial, Helvetica, sans-serif;margin: 0px;}
+body p{font-size: 18px;}
+body h2{font-size: 40px}
+.main-container{line-height: 1.6;}
+.container {padding: 100px;position: relative;}
+.container {background: url('image/data-analysis-example.jpg') no-repeat right;background-size: cover;padding: 100px 0 60px;background-position:top;}
+.image-container-2{background: url('image/img-container-pc-2.png') no-repeat right;background-size: cover;padding: 50px;border-radius: 18px;width: 1200px;margin: 0px auto;}
+.image-container-3 {background: url('image/image4-data-analytics.jpg') no-repeat right;background-size: cover;padding: 50px;}
+.image-content-container-3{width: 50%;width: 1200px;margin: 0px auto;}
+.image-content-container-2{width: 50%;}
+.container-content {width: 1200px;padding: 0;margin: 0 auto;}
+.container-content h1 {font-size: 2.5rem;margin-bottom: 15px;color: #333;}
+.container-content p {margin-bottom: 15px;}
+
+.da-examples {margin-bottom: 40px;}
+.da-examples h2 {margin-bottom: 20px;color: #333;}
+.da-examples ul {list-style: none;padding: 0;}
+.da-examples li {margin-bottom: 20px;display: flex;align-items: flex-start;}
+.da-examples li img { width: 24px;height: 24px;margin-right: 10px;margin-top: 3px;}
+.da-examples li p {margin: 0;font-size: 1rem;color: #555;}
+.data-analysis-slider1-section{background: #0e122b;}
+.data-analysis-slider1 {padding: 50px 0px;width: 1200px;margin: 0px auto;}
+.carousel-container {position: relative;width: 100%;}
+.carousel {display: flex;transition: transform 0.5s ease-in-out;}
+.slide {min-width: 23%;box-sizing: border-box;padding: 20px;text-align: left;background-color: #fff;font-size: 16px;justify-content: center;
+border-radius: 25px 0;margin: 0px 15px;}
+.slide img {width: 49.95px;height: 34.97px;margin-bottom: 15px;}
+button {position: absolute;top: 50%;transform: translateY(-50%);background-color: rgba(0, 0, 0, 0.5);color: white;font-size: 24px;border: none;
+cursor: pointer;padding: 10px;z-index: 10;}
+.prev {left: -30px;}
+.next {right: -40px;}
+button:disabled {opacity: 0.5;cursor: not-allowed;}
+.dots-container {display: flex;justify-content: center;margin-top: 20px;}
+.dot {width: 12px;height: 12px;margin: 0 5px;background-color: #bbb;border-radius: 50%;display: inline-block;transition: background-color 0.3s ease;cursor: pointer;
+}
+
+.active-dot {background-color: #ffffff;}
+.new_slider_arrow {cursor: pointer;position: absolute;top: 50%;color: white;border-radius: 20%;font-size: 25px;font-weight: bold;text-align: center;padding-top: 12px;
+}
+.data-analysis-slider2{background: url(https://cdn-e-careers.scdn5.secure.raxcdn.com/images/best_banner_desktop.jpg) no-repeat right;
+    background-size: cover;
+    padding: 50px 0 122px;
+    background-position: bottom;}
+.data-analysis-slider2-content{color: #fff;}
+
+.data-analysis-slider2-container {position: relative;width: 1200px;margin: 0px auto;}
+
+.data-analysis-slider2-carousel {display: flex;transition: transform 0.5s ease-in-out;}
+
+.data-analysis-slider2-slide {min-width: 30%;box-sizing: border-box;padding: 20px;text-align: left;background-color: #fff;font-size: 16px;line-height: 1.5;
+justify-content: center;border-radius: 25px 0;margin: 0px 18px;}
+.data-analysis-slider2-slide img {width: 50px;height: 50px;margin-bottom: 15px;}
+button {position: absolute;top: 50%;transform: translateY(-50%);background-color: rgba(0, 0, 0, 0.5);color: white;font-size: 24px;border: none;cursor: pointer;
+padding: 10px;z-index: 10;}
+.data-analysis-slider2-prev {left: -30px;}
+.data-analysis-slider2-next {right: -30px;}
+button:disabled {opacity: 0.5;cursor: not-allowed;}
+.data-analysis-slider2-dots-container {display: flex;justify-content: center;margin-top: 20px;}
+
+.data-analysis-slider2-dot {width: 12px;height: 12px;margin: 0 5px;background-color: #717171;border-radius: 50%;display: inline-block;transition: background-color 0.3s ease;
+cursor: pointer;}
+.ds-active-dot {background-color: #fff;}
+.content{width: 60%;}
